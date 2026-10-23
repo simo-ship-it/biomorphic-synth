@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.dylib
+biomorphic_hand_synth
+build/
+.DS_Store
+assets/*.wav
